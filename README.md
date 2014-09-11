@@ -1,4 +1,4 @@
 scubagear
 =========
 
-Another Scuba Gear Site
+Another Scuba Gear Site.
